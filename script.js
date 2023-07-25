@@ -1,13 +1,13 @@
 function white(){
-    document.getElementById("imd").setAttribute("src",'/white.jpg')
+    document.getElementById("imd").setAttribute("src",'./white.jpg')
 }
 
 function yellow(){
-    document.getElementById("imd").setAttribute("src",'/yellow.jpg')
+    document.getElementById("imd").setAttribute("src",'./yellow.jpg')
 }
 
 function black(){
-    document.getElementById("imd").setAttribute("src",'/black.jpg')
+    document.getElementById("imd").setAttribute("src",'./black.jpg')
 }
 
 const clk1=document.querySelector("#clk");
